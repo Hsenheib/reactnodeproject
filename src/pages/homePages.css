@@ -1,0 +1,18 @@
+/* Example styles in homePages.css */
+.days-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .day-button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px;
+    margin: 5px;
+  }
+  
+  .day-button:hover {
+    background-color: #45a049;
+  }
+  

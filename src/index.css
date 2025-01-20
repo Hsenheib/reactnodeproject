@@ -1,0 +1,34 @@
+/* Basic styles for the app */
+body {
+  font-family: Arial, sans-serif;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 5px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  padding: 5px;
+}
+
+.days-container, .selected-days {
+  margin: 20px;
+}
+
+.day-button {
+  font-size: 16px;
+}
